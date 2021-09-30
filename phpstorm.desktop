@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PhpStorm
+Exec="/opt/PhpStorm/bin/phpstorm.sh"
+Icon=/opt/phpstorm.png
+Categories=Application;Development;Java;IDE
+Version=1.0
+Type=Application
+Terminal=0
+EOF
