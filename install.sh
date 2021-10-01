@@ -21,3 +21,4 @@ bash /root/nextcloud.sh
 bash /root/obs.sh
 bash /root/remina.sh
 hello
+hello
