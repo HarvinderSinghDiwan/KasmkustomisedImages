@@ -23,3 +23,4 @@ bash /root/remina.sh
 hello
 hello
 hello
+hello
